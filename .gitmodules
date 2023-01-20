@@ -1,0 +1,3 @@
+[submodule "Third-repo"]
+	path = Third-repo
+	url = https://github.com/SashankLis/Third-repo.git
